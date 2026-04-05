@@ -16,10 +16,10 @@ Integrating LLMs into backend workflows to automate reporting, data enrichment a
 **🔧 What I build**
 
 - **API & third-party integrations**
-  Connecting CRMs, payment gateways and external platforms with proper auth, retry logic, and error handling
+  Connecting CRMs, payment gateways and external platforms with proper auth, retry logicand error handling
 
 - **Data migration pipelines**
-  Full and incremental migrations with delta sync, consistency guarantees, and zero operational downtime handled millions of records in production
+  Full and incremental migrations with delta sync, consistency guaranteesand zero operational downtime handled millions of records in production
 
 - **Billing & subscription systems**
   Credit-based and subscription models with real-time balance tracking, Stripe integration and consumption metering across services
@@ -37,10 +37,10 @@ Integrating LLMs into backend workflows to automate reporting, data enrichment a
 
 **📦 Things I've shipped**
 
-🔁  **CRM data migration platform** — enterprise-grade tool handling millions of records with incremental delta syncs, 85% reduction in migration failures, and zero downtime for live clients  
+🔁  **CRM data migration platform** — enterprise-grade tool handling millions of records with incremental delta syncs, 85% reduction in migration failuresand zero downtime for live clients  
 💳  **Credit-based billing system** — real-time credit purchase, balance tracking and consumption metering across multiple services via Stripe  
 🧹  **Contact data normalization engine** — phone and email standardization within CRM at scale, with configurable formatting rules  
-🤖  **AI note management app (VoxText)** — speech-to-text input, NLP-based search, and automated weekly/monthly/yearly summaries using OpenAI APIs, built on Firebase  
+🤖  **AI note management app (VoxText)** — speech-to-text input, NLP-based searchand automated weekly/monthly/yearly summaries using OpenAI APIs, built on Firebase  
 
 ---
 
